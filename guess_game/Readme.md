@@ -1,0 +1,1 @@
+initialise a variable with a number betweeen 1 and 20. Giving the user 6 chances, tell the user to guess your chosen number. Tell the user if his/her chosen number is greater or lesser than your chosen number or if he/she guessed your chosen number right
